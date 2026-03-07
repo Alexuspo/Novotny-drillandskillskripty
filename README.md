@@ -19,3 +19,6 @@ Měla by se zapsat správná odpověď.
 Pokud ne vložte issue do githubu. 
 
 Pokus chcete přidat skript buď mi ho poělete nebo vytvořte pull request. 
+
+# Co nikdy pravděpodobně nebude fungovat
+Rozpoznávání otázek a odpovědí podle obrázku.
