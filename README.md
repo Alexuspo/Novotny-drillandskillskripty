@@ -1,4 +1,4 @@
-# Skripty pro počítání věcí od notvného
+# Skripty pro počítání věcí od Novotného
 *Only on panská*
 Skripty na úkoly od notovného
 
